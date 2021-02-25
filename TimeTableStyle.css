@@ -1,13 +1,13 @@
-#table{
-        text-align: center;
-        border-collapse: separate;
-        border-spacing: 10px;
-        background-color: rgb(231, 228, 228);
-        height: 350px;
-        width: 700px;
-} 
-#body{
-        border: 5px;
-        text-align: center;
-}
-
+html{
+        font-family: 'Akaya Telivigala', cursive;
+        font-size: larger;
+        background-color: #283747;
+    }
+    body {
+        width: 550px;
+        height: 400px;
+        margin: 0 auto;
+        background-color: #DE354C;
+        padding: 50px 50px 50px 50px;
+        border: 5px solid black;
+      }
