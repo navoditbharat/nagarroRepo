@@ -1,0 +1,13 @@
+#table{
+        text-align: center;
+        border-collapse: separate;
+        border-spacing: 10px;
+        background-color: rgb(231, 228, 228);
+        height: 350px;
+        width: 700px;
+} 
+#body{
+        border: 5px;
+        text-align: center;
+}
+
