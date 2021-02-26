@@ -23,4 +23,12 @@ html{
       }
       td , th{
               padding: 5px;
+
+      }
+      th:hover{
+              
+        color: #120ef0;
+      }
+      td:hover{
+              color: rgb(158, 31, 131);
       }
