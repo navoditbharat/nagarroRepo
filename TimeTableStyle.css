@@ -21,3 +21,6 @@ html{
       tfoot{
               background-color: aqua;
       }
+      td , th{
+              padding: 5px;
+      }
