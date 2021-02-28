@@ -1,46 +1,53 @@
 html{
         font-family: 'Akaya Telivigala', cursive;
         font-size: larger;
-        background-color: #ecf4f3;
-        
-    }
-    body {
-        width: 550px;
-        margin: 7.5% auto;
-        background-color: #eeeeee;
-        padding: 30px 30px 30px 30px;
-        border: 5px solid white;
-        
-      }
-      table{
-              border-collapse: separate;
-              padding: 5px;
-              background-color:#e6e6e6;
-      }
-      tr:nth-of-type(2n+1){
-              background-color: #f6f6f6;
-      }
-      tr:nth-of-type(2n){
-              background-color: #e6e6e6;
-      }
-      th{
-              background-color: #495464;
-      }
-      tfoot{
-              background-color: #fcf8ec;
-      }
-      td , th{
-              padding: 5px;
+        background-color: #E6BCCD;
+}
 
-      }
-      th:hover{
-              
-        color: #120ef0;
-      }
-      td:hover{
-              color: rgb(158, 31, 131);
-      }
 
+body {
+        width: 888px;
+        border: 5px solid black;
+        margin: 30px auto;
+        background-color: #F4F7BE; 
+}
+
+
+
+
+table{
+        border: 5px solid darkcyan;
+        margin: 50px;
+        border-spacing: 5px;
+}
+
+td , th{
+        border: 1px solid darkcyan;
+        padding: 15px;
+        margin: 5px;
+}
+
+tr:nth-of-type(2n+1){
+        background-color: white;
+}
+tr:nth-of-type(2n){
+        background-color: #88A0A8;
+}
+th{
+        background-color: #88A0A8;
+}
+tfoot{
+        background-color: aqua;
+}
 #break{
-        background-color: #495464;
+        background-color: #88A0A8;
+}
+  
+  
+  
+th:hover{     
+    color: #120ef0;
+}
+td:hover{
+        color: rgb(158, 31, 131);
 }
