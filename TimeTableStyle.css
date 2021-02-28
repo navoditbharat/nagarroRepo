@@ -1,31 +1,33 @@
 html{
         font-family: 'Akaya Telivigala', cursive;
         font-size: larger;
-        background-color: #E6BCCD;
+        background-color: #ecf4f3;
+        
     }
     body {
         width: 550px;
         margin: 7.5% auto;
-        background-color: #F4F7BE;
+        background-color: #eeeeee;
         padding: 30px 30px 30px 30px;
-        border: 5px solid black;
+        border: 5px solid white;
+        
       }
       table{
               border-collapse: separate;
               padding: 5px;
-              background-color:#88A0A8;
+              background-color:#e6e6e6;
       }
       tr:nth-of-type(2n+1){
-              background-color: white;
+              background-color: #f6f6f6;
       }
       tr:nth-of-type(2n){
-              background-color: #88A0A8;
+              background-color: #e6e6e6;
       }
       th{
-              background-color: #88A0A8;
+              background-color: #495464;
       }
       tfoot{
-              background-color: aqua;
+              background-color: #fcf8ec;
       }
       td , th{
               padding: 5px;
@@ -40,5 +42,5 @@ html{
       }
 
 #break{
-        background-color: #88A0A8;
+        background-color: #495464;
 }
